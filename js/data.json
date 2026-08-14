@@ -1,0 +1,16 @@
+{
+  "layers": [
+    { "id": 1, "name": "Physical", "nameKo": "물리 계층", "pdu": "Bit", "icon": "i-plug" },
+    { "id": 2, "name": "Data Link", "nameKo": "데이터링크 계층", "pdu": "Frame", "icon": "i-link" },
+    { "id": 3, "name": "Network", "nameKo": "네트워크 계층", "pdu": "Packet", "icon": "i-globe" },
+    { "id": 4, "name": "Transport", "nameKo": "전송 계층", "pdu": "Segment", "icon": "i-package" },
+    { "id": 5, "name": "Session", "nameKo": "세션 계층", "pdu": "Data", "icon": "i-chat" },
+    { "id": 6, "name": "Presentation", "nameKo": "표현 계층", "pdu": "Data", "icon": "i-frame" },
+    { "id": 7, "name": "Application", "nameKo": "애플리케이션 계층", "pdu": "Data", "icon": "i-browser" }
+  ],
+  "progress": {
+    "completedLayers": [],
+    "streakDays": 0,
+    "xp": 0
+  }
+}
